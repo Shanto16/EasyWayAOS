@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="37dp"
+    android:height="29dp"
+    android:viewportWidth="57"
+    android:viewportHeight="49">
 
-</selector>
+    <path
+        android:fillColor="@color/card_address"
+        android:fillType="evenOdd"
+        android:pathData="M51.8,4.984A15.479,15.479,0,0,0,30.119,5L28.6,6.489,27.067,4.972A15.465,15.465,0,0,0,5.39,4.949a14.961,14.961,0,0,0,0.023,21.382L27.454,48.072a1.588,1.588,0,0,0,2.23 0.011 L51.772,26.377A15,15,0,0,0,51.8,4.984ZM49.542,24.166L28.569,44.772,7.643,24.131a11.875,11.875,0,0,1-0.012-16.96,12.275,12.275,0,0,1,17.194 0.012 L27.478,9.8a1.6,1.6,0,0,0,2.242,0l2.629-2.593a12.275,12.275,0,0,1,17.194-0.012A11.9,11.9,0,0,1,49.542,24.166Z" />
+</vector>
