@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#98484848</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="cardheader">#3F4466</color>
+    <color name="cardfooter">#A2A1BF</color>
+    <color name="background">#fcfcfd</color>
+    <color name="star_fill">#9569e1</color>
+    <color name="star_empty">#c2c2d5</color>
+    <color name="card_address">#787c95</color>
+    <color name="open_green">#54bc46</color>
+    <color name="closed_red">#fd3c3c</color>
+
+
+
+</resources>
